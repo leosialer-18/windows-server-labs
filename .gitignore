@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Visual Studio Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Virtual Machines
+*.vdi
+*.vmdk
+*.vbox
+*.vbox-prev
+*.ova
+*.ovf
+
+# Logs
+*.log
