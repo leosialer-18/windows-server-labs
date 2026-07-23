@@ -24,6 +24,7 @@ DHCP automatically assigns network settings to client computers, reducing manual
 | Operating System | Windows Server 2019 |
 | Domain | `lab.local` |
 | DHCP Scope | `192.168.10.100 - 192.168.10.200` |
+| Subnet Mask | `255.255.255.0` |
 
 
 ## Installing the DHCP Server Role
